@@ -1,0 +1,12 @@
+*.lnk
+*.exe
+desktop.ini
+*.tmp
+*.log
+__pycache__/
+*.lnk
+*.exe
+desktop.ini
+*.tmp
+*.log
+__pycache__/
